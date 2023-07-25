@@ -4,7 +4,10 @@ A Python application that allows you to chat with multiple PDF documents. You ca
 
 ## How it works
 
+![PDF-LangChain](https://github.com/Msparihar/Data-Wizard/assets/75237981/2df74984-d4ee-4c58-a077-73b3953c0846)
+
 The application follows these steps to provide responses to your questions:
+
 
 1. **PDF loading:** The app reads multiple PDF documents and extracts their text content.
 2. **Text chunking:** The extracted text is divided into smaller chunks that can be processed effectively.
